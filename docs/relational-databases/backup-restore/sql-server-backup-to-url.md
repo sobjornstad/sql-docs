@@ -326,7 +326,7 @@ $tSql | clip
 Write-Host $tSql  
 ```  
 
-After successfully running the script, copy the `CREATE CREDENTIAL` command to a query tool, connect to an instancance of SQL Server and run the command to create the credential with the Shared Access Signature. 
+After successfully running the script, copy the `CREATE CREDENTIAL` command to a query tool, connect to an instance of SQL Server and run the command to create the credential with the Shared Access Signature. 
 
 ###  <a name="credential"></a> Create a Credential  
  The following examples create [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] credentials for authentication to the Microsoft Azure Blob storage service. Do one of the following. 
